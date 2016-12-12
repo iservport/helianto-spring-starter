@@ -1,0 +1,8 @@
+spring:
+# Profiles
+  profiles:
+    active: dev
+# Logging
+logging:
+  level:
+    org.springframework: INFO
